@@ -1,0 +1,16 @@
+C:\Users\nhamnett\OneDrive\SAIT\Semesters\Winter2023\CPRG211 OOP2\Nicks\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\nhamnett\OneDrive\SAIT\Semesters\Winter2023\CPRG211 OOP2\Nicks\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.csproj.SuggestedBindingRedirects.cache
+C:\Users\nhamnett\OneDrive\SAIT\Semesters\Winter2023\CPRG211 OOP2\Nicks\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\nhamnett\OneDrive\SAIT\Semesters\Winter2023\CPRG211 OOP2\Nicks\Assignment_3_skeleton\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\nhamnett\OneDrive\SAIT\Semesters\Winter2023\CPRG211 OOP2\Nicks\Assignment_3_skeleton\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\nhamnett\OneDrive\SAIT\Semesters\Winter2023\CPRG211 OOP2\Nicks\Assignment_3_skeleton\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\nhamnett\OneDrive\SAIT\Semesters\Winter2023\CPRG211 OOP2\Nicks\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\nhamnett\OneDrive\SAIT\Semesters\Winter2023\CPRG211 OOP2\Nicks\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\shung\Desktop\OOP\4月14日_assignment\Assignment_3_skeleton_updated\Assignment_3_skeleton\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\shung\Desktop\OOP\4月14日_assignment\Assignment_3_skeleton_updated\Assignment_3_skeleton\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\shung\Desktop\OOP\4月14日_assignment\Assignment_3_skeleton_updated\Assignment_3_skeleton\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\shung\Desktop\OOP\4月14日_assignment\Assignment_3_skeleton_updated\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\shung\Desktop\OOP\4月14日_assignment\Assignment_3_skeleton_updated\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.csproj.SuggestedBindingRedirects.cache
+C:\Users\shung\Desktop\OOP\4月14日_assignment\Assignment_3_skeleton_updated\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\shung\Desktop\OOP\4月14日_assignment\Assignment_3_skeleton_updated\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\shung\Desktop\OOP\4月14日_assignment\Assignment_3_skeleton_updated\Assignment_3_skeleton\Assignment3\obj\Debug\Assignment3.pdb
